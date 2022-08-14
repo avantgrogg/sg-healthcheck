@@ -18,3 +18,5 @@ Deploy your own clone of this app to Begin!
 - [Provisioning scheduled functions](https://docs.begin.com/en/scheduled/provisioning) - basics on expanding the capabilities of your app
 
 Head to [docs.begin.com](https://docs.begin.com/) to learn more!
+
+Just testing the begin update.
