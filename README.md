@@ -1,2 +1,0 @@
-# sg-healthcheck
-Begin app
